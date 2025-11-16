@@ -1,7 +1,0 @@
-{
-  "name": "NeuralCalc",
-  "description": "A next-generation scientific calculator fusing precision arithmetic with Gemini AI reasoning. Features standard scientific functions, history tracking, and an AI assistant for complex math problems and explanations.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
